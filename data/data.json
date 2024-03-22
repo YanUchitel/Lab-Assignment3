@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 75000,
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "123 Main Street, Toronto, ON, Canada"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "UI/UX Designer",
+      "department": "Design",
+      "salary": 65000,
+      "email": "jane.smith@example.com",
+      "phone": "+1987654321",
+      "address": "456 Elm Street, Toronto, ON, Canada"
+    },
+    {
+      "id": 3,
+      "name": "David Lee",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 60000,
+      "email": "david.lee@example.com",
+      "phone": "+1765432890",
+      "address": "789 Oak Street, Toronto, ON, Canada"
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "position": "Project Manager",
+      "department": "Management",
+      "salary": 85000,
+      "email": "emily.johnson@example.com",
+      "phone": "+1654321890",
+      "address": "321 Maple Avenue, Toronto, ON, Canada"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "position": "Data Analyst",
+      "department": "Analytics",
+      "salary": 70000,
+      "email": "michael.brown@example.com",
+      "phone": "+1432987654",
+      "address": "654 Pine Street, Toronto, ON, Canada"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Kim",
+      "position": "Human Resources Manager",
+      "department": "HR",
+      "salary": 75000,
+      "email": "sarah.kim@example.com",
+      "phone": "+1123456789",
+      "address": "987 Cedar Road, Toronto, ON, Canada"
+    }
+  ]
+}
